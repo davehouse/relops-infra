@@ -5,6 +5,7 @@
 if a cartridge is powered on but not responding to a ping. It then reboots those
 cartridges.
 ```
-./reboot_hung.sh
+./keep_moonshot_carts_up.sh
 # enter Administrator password
+# enter metrics writer password (optional)
 ```
